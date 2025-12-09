@@ -1,0 +1,6 @@
+
+
+USE SAKILA;
+
+SELECT * 
+FROM ACTOR
