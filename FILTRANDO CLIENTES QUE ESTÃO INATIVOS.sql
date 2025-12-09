@@ -1,0 +1,11 @@
+use sakila;
+
+# and = E
+# OR = OU
+#NOT = NEGAR
+
+SELECT * FROM CUSTOMER
+where STORE_ID = 1 AND ACTIVE = 0
+
+#FILTRANDO CLIENTES QUE ESTÃO INATIVOS 
+
